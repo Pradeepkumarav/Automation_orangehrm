@@ -73,6 +73,7 @@ public class Reausablesteps {
 	    	}
 	    	else {
 	    		System.out.println(element + "is not dispalyed");
+	    		System.out.println("element not present");
 	    	}
 	    	
 	    	
